@@ -97,7 +97,7 @@ spec:
         - name: HOME
           value: /home/devops
         - name: ENVIRONMENT_NAME
-          value: inventory-wcs
+          value: dev
         - name: BUILD_NUMBER
           value: ${env.BUILD_NUMBER}
 """
